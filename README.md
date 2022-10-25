@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @victor-ariane
+- Meu email de contato dias.ariane@escola.pr.gov.br
+- 👀 Eu estou interessado em aprender programar novas linguagens.
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
